@@ -44,8 +44,8 @@ Example of `data-temperature-humidity.csv`:
 | timestamp           | humidity | temperature |
 |---------------------|----------|-------------|
 | 2025-09-01 10:00:00 | 55.4     | 24.3        |
-| 2025-09-02 10:00:00 | 56.1     | 24.5        |
-| 2025-09-03 10:00:00 | 54.9     | 23.8        |
+| 2025-09-02 10:02:00 | 56.1     | 24.5        |
+| 2025-09-03 10:04:00 | 54.9     | 23.8        |
 
 ---
 
@@ -123,3 +123,5 @@ Example of `data-temperature-humidity.csv`:
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/samarth-bhutnal-523446334/)  
 **Nikit Ganganagoudar**
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nikit-ganganagoudar-23607033a/)  
+
+---
